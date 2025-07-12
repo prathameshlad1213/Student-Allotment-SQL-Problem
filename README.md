@@ -1,6 +1,6 @@
 Student Elective Subject Allotment – MySQL Workbench Assignment
 
-📝 Problem Statement
+📝 Problem Statement.
 
 A college wants to automate the Open Elective Subject Allotment process for students.
 Each student provides 5 subject choices (preferences), and allocation is done based on GPA.
